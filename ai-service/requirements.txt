@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic>=2.9.0
+pydantic-settings
+python-dotenv
+playwright
+groq
+chromadb>=0.5.0
+langchain
+langchain-community
+langchain-google-genai
+pymongo
+motor

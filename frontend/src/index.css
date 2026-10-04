@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    @apply h-full w-full m-0 p-0 font-sans bg-neo-bg text-black antialiased selection:bg-black selection:text-neo-yellow;
+  }
+}
